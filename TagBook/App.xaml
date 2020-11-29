@@ -1,0 +1,10 @@
+﻿<Application x:Class="TagBook.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:TagModel.ViewModel;assembly=TagModel"
+             xmlns:local="clr-namespace:TagBook"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <vm:TagViewModel x:Key="vm"/>
+    </Application.Resources>
+</Application>

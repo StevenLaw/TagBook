@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagBook", "TagBook\TagBook.csproj", "{6F687F34-ADD1-4097-91B8-521E2B9772A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagBookTests", "TagBookTests\TagBookTests.csproj", "{AF469C74-A3C5-4187-B210-AA7F9A422EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagModel", "TagModel\TagModel.csproj", "{4E00F626-70B7-4C14-B88C-529855709EC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F687F34-ADD1-4097-91B8-521E2B9772A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F687F34-ADD1-4097-91B8-521E2B9772A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F687F34-ADD1-4097-91B8-521E2B9772A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F687F34-ADD1-4097-91B8-521E2B9772A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF469C74-A3C5-4187-B210-AA7F9A422EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF469C74-A3C5-4187-B210-AA7F9A422EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF469C74-A3C5-4187-B210-AA7F9A422EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF469C74-A3C5-4187-B210-AA7F9A422EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E00F626-70B7-4C14-B88C-529855709EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E00F626-70B7-4C14-B88C-529855709EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E00F626-70B7-4C14-B88C-529855709EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E00F626-70B7-4C14-B88C-529855709EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A5E2E77-D82A-4FB2-BE19-5CF69C63D85A}
+	EndGlobalSection
+EndGlobal
